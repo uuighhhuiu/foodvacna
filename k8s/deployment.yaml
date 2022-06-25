@@ -31,4 +31,4 @@ spec:
         - name: Vmess_Path
           value: "/s244"
         - name: Share_Path
-          value: "/Share233"
+          value: "/share233"
